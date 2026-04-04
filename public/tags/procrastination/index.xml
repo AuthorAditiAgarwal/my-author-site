@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Procrastination on Home</title>
+    <link>http://localhost:1313/tags/procrastination/</link>
+    <description>Recent content in Procrastination on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Aditi Agarwal</copyright>
+    <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/procrastination/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4 Things that Impact Productivity at Work</title>
+      <link>http://localhost:1313/blog/2017/2017-11-03-productivity-at-work/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/2017-11-03-productivity-at-work/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

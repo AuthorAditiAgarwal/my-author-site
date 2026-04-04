@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Success-Work on Home</title>
+    <link>http://localhost:1313/tags/success-work/</link>
+    <description>Recent content in Success-Work on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Aditi Agarwal</copyright>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/success-work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>7 Traits of High-Performing People</title>
+      <link>http://localhost:1313/blog/2018/2018-10-30-7-traits-of-superstars-work/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/2018-10-30-7-traits-of-superstars-work/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

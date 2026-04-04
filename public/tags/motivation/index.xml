@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivation on Home</title>
+    <link>http://localhost:1313/tags/motivation/</link>
+    <description>Recent content in Motivation on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Aditi Agarwal</copyright>
+    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Leadership Agility: What You Need to Know</title>
+      <link>http://localhost:1313/blog/2020/2020-02-03-leadership-agility/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2020/2020-02-03-leadership-agility/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Power of Positive Thinking</title>
+      <link>http://localhost:1313/blog/2018/2018-04-12-the-power-of-positive-thoughts/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/2018-04-12-the-power-of-positive-thoughts/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

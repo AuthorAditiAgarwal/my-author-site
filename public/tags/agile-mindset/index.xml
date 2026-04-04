@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile-Mindset on Home</title>
+    <link>http://localhost:1313/tags/agile-mindset/</link>
+    <description>Recent content in Agile-Mindset on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Aditi Agarwal</copyright>
+    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/agile-mindset/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Future Of Agile</title>
+      <link>http://localhost:1313/blog/2019/2019-11-23-the-future-of-agile/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/2019-11-23-the-future-of-agile/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agile and Lean</title>
+      <link>http://localhost:1313/blog/2019/2019-03-30-agile-lean/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/2019-03-30-agile-lean/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

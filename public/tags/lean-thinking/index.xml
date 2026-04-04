@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lean-Thinking on Home</title>
+    <link>http://localhost:1313/tags/lean-thinking/</link>
+    <description>Recent content in Lean-Thinking on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Aditi Agarwal</copyright>
+    <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/lean-thinking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Do You Measure Kanban Throughput?</title>
+      <link>http://localhost:1313/blog/2019/2019-12-19-measure-kanban-throughput/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/2019-12-19-measure-kanban-throughput/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agile and Lean</title>
+      <link>http://localhost:1313/blog/2019/2019-03-30-agile-lean/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/2019-03-30-agile-lean/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

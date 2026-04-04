@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emerging-Technologies on Home</title>
+    <link>http://localhost:1313/categories/emerging-technologies/</link>
+    <description>Recent content in Emerging-Technologies on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Aditi Agarwal</copyright>
+    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/emerging-technologies/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8 Most Popular Connected Home Devices</title>
+      <link>http://localhost:1313/blog/2018/2018-04-12-connected-home-devices/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2018/2018-04-12-connected-home-devices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bitcoins</title>
+      <link>http://localhost:1313/blog/2017/2017-12-23-bitcoins-future/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/2017-12-23-bitcoins-future/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

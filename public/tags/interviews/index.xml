@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on Home</title>
+    <link>http://localhost:1313/tags/interviews/</link>
+    <description>Recent content in Interviews on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Aditi Agarwal</copyright>
+    <lastBuildDate>Sat, 14 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/interviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What is Technical Debt?</title>
+      <link>http://localhost:1313/blog/2017/2017-10-14-what-is-technical-debt/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2017/2017-10-14-what-is-technical-debt/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
