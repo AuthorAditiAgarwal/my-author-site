@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-05-my-first-post.md",
+                "file": "2017/2017-11-04-about-aditi-agarwal/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-05-my-first-post"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-04-05-my-first-post.md",
+                "file": "2017/2017-11-04-about-aditi-agarwal/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-05-my-first-post"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-04-05-my-first-post.md",
+                "file": "2017/2017-11-04-about-aditi-agarwal/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-05-my-first-post"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-05-my-first-post.md",
+                "file": "2017/2017-11-04-about-aditi-agarwal/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-05-my-first-post"
+              "title": "Outline of index"
             }
           }
         ]
@@ -185,12 +185,17 @@
   },
   "active": "2c676b5ce8daa8e3",
   "lastOpenFiles": [
+    "2017/2017-10-17-customhomepage/index.md",
     "2017/2017-11-04-about-aditi-agarwal/index.md",
+    "2017/2017-10-23-miracles/index.md",
     "2017/2017-11-04-about-aditi-agarwal/feature.jpg",
+    "2026-04-05-my-first-post.md",
     "2017/2017-11-04-about-aditi-agarwal/images/IMG_0210.jpg",
+    "2026-04-05.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "2018/2018-05-04-contact-the-author/index.md",
     "2018/2018-05-29-webinars/index.md",
-    "2026-04-05-my-first-post.md",
     "2018/2018-04-13-what-is-a-sprint-burndown-chart/feature.png",
     "2018/2018-10-05-sample-kanban-boards/feature.png",
     "2018/2018-02-15-waterfall-agile/feature.jpg",
