@@ -4,7 +4,7 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 title = "Aditi Agarwal | Author, Leader, and Conscious Leadership Guide"
-# baseURL = "https://authoraditiagarwal.thelighthousementors.com/"
+baseURL = "https://aditi.thelighthousementors.com"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
