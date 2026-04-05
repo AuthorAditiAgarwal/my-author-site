@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2026-04-05-my-first-post.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,6 +185,12 @@
   },
   "active": "2c676b5ce8daa8e3",
   "lastOpenFiles": [
+    "2017/2017-11-04-about-aditi-agarwal/index.md",
+    "2017/2017-11-04-about-aditi-agarwal/feature.jpg",
+    "2017/2017-11-04-about-aditi-agarwal/images/IMG_0210.jpg",
+    "2018/2018-05-04-contact-the-author/index.md",
+    "2018/2018-05-29-webinars/index.md",
+    "2026-04-05-my-first-post.md",
     "2018/2018-04-13-what-is-a-sprint-burndown-chart/feature.png",
     "2018/2018-10-05-sample-kanban-boards/feature.png",
     "2018/2018-02-15-waterfall-agile/feature.jpg",
@@ -193,10 +199,6 @@
     "2018/2018-04-12-connected-home-devices/feature.jpg",
     "2018/2018-04-13-5-habits-that-successful-leaders-have/feature.jpg",
     "2020/2020-06-17-agile-anti-patterns-for-remote-teams/feature.png",
-    "2020/2020-03-16-virtual-pi-planning/feature.jpg",
-    "2020/2020-02-03-leadership-agility/feature.jpg",
-    "2021/2021-06-13-customer-journey-mapping-template/feature.jpg",
-    "2026-04-05-my-first-post.md",
     "2026"
   ]
 }
