@@ -2,6 +2,8 @@ backend:
   name: github
   repo: AuthorAditiAgarwal/my-author-site
   branch: main
+  base_url: https://cms-oauth.authoraditiagarwal.workers.dev
+  auth_endpoint: /api/auth
 
 media_folder: "static/images"
 public_folder: "/images"
