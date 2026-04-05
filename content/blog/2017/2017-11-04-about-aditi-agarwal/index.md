@@ -3,20 +3,6 @@ title: "About the Author"
 date: 2017-11-04
 ---
 
-\[siteorigin\_widget class="WP\_Widget\_Media\_Image"\]\[/siteorigin\_widget\]
-
-## **About Me**
-
-With over 20 years of experience in **Information Technology**, Aditi has vast experience in Portfolio and Project Management, Agile Methodologies, Scaled Agile, Lean Thinking, Leadership, People Management, Risk Management, Stakeholder Management, and much more. 
-
-Aditi is a very **ambitious** and a strong headed person. She has a **positive** and **energetic** personality that inspires others to perform their best. She strongly believes in **empowering others** and helping them to fulfill their dreams. Aditi has found a way to do more of **what matters most** and less of what doesn't.
-
-In 2016, she attended **National Achievers Congress (NAC)** which is a full-day event presented by **New Peaks and Success Resources**. The event was '**Unstoppable in 2016' with**  **Tony Robbins**, **Nick Vujicic**, **Adam Markel**, **Gerry Robert**, **Lisa Nichols**, and **Dean Graziosi.** As a result, she was inspired to live life with greater gratitude. She was determined to share her knowledge with others and give back to society. She, then, started to research into writing and publishing books.
-
-The first book that she published was a short 50-page book, "[What Is SCRUM?](https://www.amazon.com/dp/1514482207) The purpose of this book was to teach Scrum terminology to college students. This book was published in Hardcover, Paperback, and eBook versions with several retailers such as Amazon, Barnes, and Noble etc. However, this book did not reach its intended audience. Finally, she decided to pull this book off the market. 
-
-But, Aditi never gave up. She was determined to share her knowlegge with others and make a difference in this world. She continued with her writing. Today, she has published several books on Amazon. 
-
 ## **My Books**
 
 - _[Enterprise Agility with OKRs: A Complete Guide to Enterprise Business Agility](https://www.amazon.com/dp/B07VZ8QNXC)_
