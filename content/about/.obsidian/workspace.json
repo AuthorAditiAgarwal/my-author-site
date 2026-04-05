@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "8eee1e486c45d4e6",
+    "id": "f397fa70ecd62699",
     "type": "split",
     "children": [
       {
-        "id": "6b35156ebea72086",
+        "id": "b9c7eab6b75343ad",
         "type": "tabs",
         "children": [
           {
-            "id": "2c676b5ce8daa8e3",
+            "id": "bcc4972f046c2235",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2017/2017-11-04-about-aditi-agarwal/feature.jpg"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "feature"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "49daf91f6c581a9d",
+    "id": "328868c51661dcb7",
     "type": "split",
     "children": [
       {
-        "id": "05b0255bcad421ff",
+        "id": "6000d3e93d4a9134",
         "type": "tabs",
         "children": [
           {
-            "id": "0905885a87760cde",
+            "id": "f646fa0e498c8664",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +48,7 @@
             }
           },
           {
-            "id": "4425a0f8067a939a",
+            "id": "b6caa0dcf9c4d855",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "16dded1f832429a0",
+            "id": "f64dda735d84e45a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "74cb825f4dcd152b",
+    "id": "b273110ad6ce8ca5",
     "type": "split",
     "children": [
       {
-        "id": "0f1a4f14c5773d24",
+        "id": "578bb7596c36ff9f",
         "type": "tabs",
         "children": [
           {
-            "id": "48f1dd6a5f8d2459",
+            "id": "5453bd16ec12c351",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2017/2017-11-04-about-aditi-agarwal/feature.jpg",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for feature"
+              "title": "Backlinks for index"
             }
           },
           {
-            "id": "85dd4980e29d9882",
+            "id": "8c4d7cab234d1486",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2017/2017-11-04-about-aditi-agarwal/feature.jpg",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from feature"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "66439c35ebe84b94",
+            "id": "7faf220e648daa8f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +137,7 @@
             }
           },
           {
-            "id": "921fe77b994d0fd1",
+            "id": "a7b3b7bbf87a54cb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,18 +151,18 @@
             }
           },
           {
-            "id": "191e3e66508199c9",
+            "id": "57175c34c3e862a7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2017/2017-11-04-about-aditi-agarwal/feature.jpg",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of feature"
+              "title": "Outline of index"
             }
           }
         ]
@@ -181,27 +183,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "0905885a87760cde",
-  "lastOpenFiles": [
-    "2017/2017-11-04-about-aditi-agarwal/index.md",
-    "2017/2017-11-04-about-aditi-agarwal/feature.jpg",
-    "2017/2017-10-17-customhomepage/index.md",
-    "2017/2017-10-23-miracles/index.md",
-    "2026-04-05-my-first-post.md",
-    "2017/2017-11-04-about-aditi-agarwal/images/IMG_0210.jpg",
-    "2026-04-05.md",
-    "Untitled.base",
-    "Untitled.canvas",
-    "2018/2018-05-04-contact-the-author/index.md",
-    "2018/2018-05-29-webinars/index.md",
-    "2018/2018-04-13-what-is-a-sprint-burndown-chart/feature.png",
-    "2018/2018-10-05-sample-kanban-boards/feature.png",
-    "2018/2018-02-15-waterfall-agile/feature.jpg",
-    "2018/2018-04-12-the-power-of-positive-thoughts/feature.jpg",
-    "2018/2018-10-30-7-traits-of-superstars-work/feature.jpg",
-    "2018/2018-04-12-connected-home-devices/feature.jpg",
-    "2018/2018-04-13-5-habits-that-successful-leaders-have/feature.jpg",
-    "2020/2020-06-17-agile-anti-patterns-for-remote-teams/feature.png",
-    "2026"
-  ]
+  "active": "bcc4972f046c2235",
+  "lastOpenFiles": []
 }
